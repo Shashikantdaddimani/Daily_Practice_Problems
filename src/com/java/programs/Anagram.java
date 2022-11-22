@@ -6,10 +6,10 @@ import java.util.Scanner;
 public class Anagram {
 	//Driver class
 		public static void main(String[] args) {
-			 // create an object of Scanner class
+			 // Create an object of Scanner class
 			Scanner sc =new Scanner(System.in);
 			
-			// take input from users
+			// Take input from users
 			System.out.println("Enter First Word");
 		        String str1=sc.next();
 			System.out.println("Enter second word");
