@@ -19,7 +19,7 @@ public class Anagram {
 		        str1 = str1.toLowerCase();  
 		        str2 = str2.toLowerCase();  
 		  
-		        //Checking for the length of strings  
+		        //Checking the length of both strings  
 		        if (str1.length() != str2.length()) {  
 		            System.out.println("Both the strings are not anagram");  
 		        }  
